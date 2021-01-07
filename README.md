@@ -1,4 +1,4 @@
-# Aplikacja_Raporty_Sprzedażowe_VBA
+# Aplikacja Raporty Sprzedażowe VBA
 Aplikacja w Excelu korzystająca z VBA do wczytywania danych i generowania raportów sprzedażowych.
 
 Najpierw aplikacja zczytuje dane z plików tekstowych z folderu dane(najpierw trzeba wypakować pliki z zipa, ma być jak na rysunku foto0.png).
